@@ -1,0 +1,1 @@
+Solo añado información al script1 de javascript para la práctica 2
